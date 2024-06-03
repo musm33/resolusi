@@ -1,0 +1,4 @@
+resolusi ke depan
+- belajar react.js
+- belajar next.js
+- belajar apaaja
